@@ -3,9 +3,6 @@
 
 This python game lets you move around a character, avoiding other characters, with a main objective of securing the prize<br><br>
 
-## Description
-This is my second website just to learn website design and coding and my first one using JS. It is not connected or affiliated with any other websites or people. This website has many different features like music, countdown timer, clock, task and progress bar, motivational quotes, and notes space. Here is the link to the website: https://saanvi4800.github.io/Focus-Dashboard/
-
 ## Navigating
 This game is pretty simple, it starts off with instructions on how this game is played. Then you are able to choose the color, shape, and speed of your charecter + difficulty of the game. Then the actual game starts. Here you have to get all of the beige colored squares (chests) in order to win. if by chance you collide with an obstacle you lose, but if you get all chests without getting hit, you win and have the option to restart the game. if yuu choose not to restart the window will just close on your screen.
 
